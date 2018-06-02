@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="documents-debug">
+    <configurations>
+      <configuration name="documents-debug" target-platform="Mobile" main-class="DocumentsDebug" output-file="DocumentsDebug.swf" output-folder="$MODULE_DIR$/bin">
+        <dependencies target-player="29.0">
+          <entries>
+            <entry library-id="0f49ee96-7efc-443b-9a85-874a02183b12">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="74917fb0-0ff2-4c1f-b733-4850989bffb6">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="6c8aa2f7-71f8-40e6-a76f-be94a50a9e25">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="3.5.x" />
+        </dependencies>
+        <compiler-options />
+        <packaging-air-desktop />
+        <packaging-android enabled="true" use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/DocumentsDebug-app.xml" package-file-name="DocumentsDebug">
+          <files-to-package>
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/src/assets" path-in-package="." />
+          </files-to-package>
+        </packaging-android>
+        <packaging-ios enabled="true" use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/DocumentsDebug-app.xml" package-file-name="DocumentsDebug">
+          <files-to-package>
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/src/assets" path-in-package="." />
+          </files-to-package>
+          <AirSigningOptions keystore-path="$USER_HOME$/cert/rozd/max.rozdobudko.dev.p12" provisioning-profile-path="$USER_HOME$/cert/rozd/whateverdev.mobileprovision" />
+        </packaging-ios>
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/assets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="3.5.x" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="0f49ee96-7efc-443b-9a85-874a02183b12" />
+        <CLASSES>
+          <root url="file://$USER_HOME$/sdks/feathers/3.5.0-beta/frameworks/libs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/sdks/feathers/3.5.0-beta/frameworks/libs" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="74917fb0-0ff2-4c1f-b733-4850989bffb6" />
+        <CLASSES>
+          <root url="file://$USER_HOME$/sdks/feathers/3.5.0-beta/frameworks/themes/MetalWorksMobileTheme" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/sdks/feathers/3.5.0-beta/frameworks/themes/MetalWorksMobileTheme" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="6c8aa2f7-71f8-40e6-a76f-be94a50a9e25" />
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/ane" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/ane" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>

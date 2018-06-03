@@ -8,7 +8,9 @@
 
 #import "ANXDocuments.h"
 
-@implementation ANXDocuments
+@implementation ANXDocuments {
+    NSTimer* _statusBarTimer;
+}
 
 #pragma mark Shared Instance
 
@@ -58,8 +60,49 @@ static ANXDocuments* _sharedInstance = nil;
 
 @implementation ANXDocuments (UIDocumentInteractionControllerDelegate)
 
+- (void)documentInteractionControllerWillBeginPreview:(UIDocumentInteractionController *)controller {
+    NSString* path = [NSBundle.mainBundle pathForResource:@"Info" ofType:@"plist"];
+    if (!path) {
+        return;
+    }
+
+    NSLog(@"ANXDocuments: path:%@", path);
+
+    NSDictionary* info = [NSDictionary dictionaryWithContentsOfFile:path];
+    if (!info) {
+        return;
+    }
+
+    NSLog(@"ANXDocuments: info:%@", info);
+
+    if ([[info objectForKey:@"UIViewControllerBasedStatusBarAppearance"] boolValue]) {
+        return;
+    }
+
+    if (!UIApplication.sharedApplication.statusBarHidden) {
+        return;
+    }
+
+    NSLog(@"ANXDocuments: install _statusBarTimer");
+
+    _statusBarTimer = [NSTimer scheduledTimerWithTimeInterval:0.04 target:self selector:@selector(handleStatusBarTimer:) userInfo:nil repeats:YES];
+}
+
+- (void)documentInteractionControllerDidEndPreview:(UIDocumentInteractionController *)controller {
+    if (_statusBarTimer) {
+        NSLog(@"ANXDocuments: remove _statusBarTimer");
+        [_statusBarTimer invalidate];
+        _statusBarTimer = nil;
+        UIApplication.sharedApplication.statusBarHidden = YES;
+    }
+}
+
 - (UIViewController *)documentInteractionControllerViewControllerForPreview:(UIDocumentInteractionController *)controller {
     return [[[UIApplication sharedApplication] keyWindow] rootViewController];
+}
+
+- (void)handleStatusBarTimer:(NSTimer*)timer {
+    UIApplication.sharedApplication.statusBarHidden = YES;
 }
 
 @end

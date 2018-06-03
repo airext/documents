@@ -68,11 +68,13 @@ public class PreviewDocumentFunction implements FREFunction {
             }
         }
 
+        String authority = activity.getPackageName() + ".airext.fileprovider.authority";
+
+        Log.d(Documents.TAG, "authority:" + authority);
+
         try {
-            Intent intent = new Intent(Intent.ACTION_VIEW, FileProvider.getUriForFile(activity, Documents.AUTHORITY, file));
-
+            Intent intent = new Intent(Intent.ACTION_VIEW, FileProvider.getUriForFile(activity, authority, file));
             intent.addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
-
             activity.startActivity(intent);
         } catch (Exception e) {
             Log.e(Documents.TAG, "PreviewDocumentFunction:", e);

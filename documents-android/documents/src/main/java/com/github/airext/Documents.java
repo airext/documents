@@ -9,8 +9,6 @@ public class Documents implements FREExtension {
 
     public final static String TAG = "ANXDocuments";
 
-    public static final String AUTHORITY = "com.github.airext.documents.fileprovider.authority";
-
     //--------------------------------------------------------------------------
     //
     //  Class variables

@@ -1,6 +1,6 @@
 <extension xmlns="http://ns.adobe.com/air/extension/24.0">
   <id>com.github.airext.Documents</id>
-  <versionNumber>0.0.2</versionNumber>
+  <versionNumber>1.0.0</versionNumber>
   <platforms>
     <platform name="iPhone-ARM">
       <applicationDeployment>

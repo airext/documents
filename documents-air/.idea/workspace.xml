@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c34a7760-a4cf-4316-a268-7111e6829679" name="Default" comment="" />
+    <list default="true" id="c34a7760-a4cf-4316-a268-7111e6829679" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documents-debug/ane/com.github.airext.Documents.ane" beforeDir="false" afterPath="$PROJECT_DIR$/documents-debug/ane/com.github.airext.Documents.ane" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documents-debug/ane/com.github.airext.Documents.swc" beforeDir="false" afterPath="$PROJECT_DIR$/documents-debug/ane/com.github.airext.Documents.swc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents-android/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../documents-android/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents-android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../documents-android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents-android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../documents-android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents-ios/Documents/Documents.xcodeproj/project.xcworkspace/xcuserdata/max.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../documents-ios/Documents/Documents.xcodeproj/project.xcworkspace/xcuserdata/max.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +18,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DocumentsDebug.mxml" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documents-debug/src/main/DocumentsDebug.mxml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
@@ -20,16 +27,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DocumentsDebug-app.xml" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documents-debug/DocumentsDebug-app.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="203" column="63" lean-forward="true" selection-start-line="203" selection-start-column="63" selection-end-line="203" selection-end-column="63" />
+            <state relative-caret-position="3045">
+              <caret line="203" column="63" selection-start-line="203" selection-start-column="63" selection-end-line="203" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="documents.iml" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documents/documents.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -38,23 +45,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Documents.as" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documents/src/default/com/github/airext/Documents.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="480">
               <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
                 <element signature="e#86#126#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Documents.as" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documents/src/main/com/github/airext/Documents.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1695">
+            <state relative-caret-position="1725">
               <caret line="120" column="38" selection-start-line="120" selection-start-column="38" selection-end-line="120" selection-end-column="38" />
               <folding>
                 <element signature="e#86#126#0" expanded="true" />
@@ -63,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.xml" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documents/build/build.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1935">
@@ -72,16 +78,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="extension.xml" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/documents/build/extension.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="390">
+              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="platform-android.xml" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documents/build/platform-android.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -90,7 +96,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.properties" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documents/build/build.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -99,7 +105,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="documents.as" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documents/src/main/com/github/airext/core/documents.as">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -132,6 +138,9 @@
       <replace>Documents</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -150,25 +159,18 @@
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1374" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2560" />
-    <option name="y" value="413" />
-    <option name="width" value="1680" />
-    <option name="height" value="1027" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,6 +222,17 @@
             <path>
               <item name="documents-air" type="b2602c69:ProjectViewProjectNode" />
               <item name="documents-debug" type="462c0819:PsiDirectoryNode" />
+              <item name="ane" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="documents-air" type="b2602c69:ProjectViewProjectNode" />
+              <item name="documents-debug" type="462c0819:PsiDirectoryNode" />
+              <item name="ane" type="462c0819:PsiDirectoryNode" />
+              <item name="com.github.airext.Documents.swc" type="ab9368bb:PsiFileNode" />
+            </path>
+            <path>
+              <item name="documents-air" type="b2602c69:ProjectViewProjectNode" />
+              <item name="documents-debug" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -232,6 +245,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -247,17 +261,17 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/documents-debug/src/main" />
-      <recent name="$PROJECT_DIR$/documents-debug/src/assets/data" />
-      <recent name="$PROJECT_DIR$/documents-debug/ane" />
-      <recent name="$PROJECT_DIR$/documents/src/default/com" />
     </key>
     <key name="CreateActionScriptClassDialog.DESTINATION_PACKAGE_RECENT_KEY">
       <recent name="com.github.airext" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/documents-debug/ane" />
       <recent name="$PROJECT_DIR$/documents-debug/src/main" />
+      <recent name="$PROJECT_DIR$/documents-debug/src/assets/data" />
+      <recent name="$PROJECT_DIR$/documents/src/default/com" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -273,19 +287,38 @@
     </option>
   </component>
   <component name="RunManager" selected="Flash App.documents-debug:ios">
-    <configuration default="true" type="Applet" factoryName="Applet">
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="documents-debug:android" type="FlashRunConfigurationType" factoryName="Flash App">
+    <configuration name="documents-debug:android" type="FlashRunConfigurationType">
       <option name="BCName" value="documents-debug" />
       <option name="IOSSimulatorSdkPath" value="" />
       <option name="adlOptions" value="" />
       <option name="airProgramParameters" value="" />
       <option name="appDescriptorForEmulator" value="Android" />
+      <option name="clearAppDataOnEachLaunch" value="true" />
       <option name="debugTransport" value="USB" />
       <option name="debuggerSdkRaw" value="BC SDK" />
       <option name="emulator" value="NexusOne" />
@@ -313,13 +346,17 @@
       <option name="screenWidth" value="0" />
       <option name="url" value="http://" />
       <option name="usbDebugPort" value="7936" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="documents-debug:ios" type="FlashRunConfigurationType" factoryName="Flash App">
+    <configuration name="documents-debug:ios" type="FlashRunConfigurationType">
       <option name="BCName" value="documents-debug" />
       <option name="IOSSimulatorSdkPath" value="" />
       <option name="adlOptions" value="" />
       <option name="airProgramParameters" value="" />
       <option name="appDescriptorForEmulator" value="Android" />
+      <option name="clearAppDataOnEachLaunch" value="true" />
       <option name="debugTransport" value="USB" />
       <option name="debuggerSdkRaw" value="BC SDK" />
       <option name="emulator" value="NexusOne" />
@@ -347,33 +384,18 @@
       <option name="screenWidth" value="0" />
       <option name="url" value="http://" />
       <option name="usbDebugPort" value="7936" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="Flash App.documents-debug:android" />
@@ -389,46 +411,47 @@
       <updated>1527930861589</updated>
       <workItem from="1527930865222" duration="15804000" />
       <workItem from="1528015918329" duration="200000" />
-      <workItem from="1528017403824" duration="5447000" />
+      <workItem from="1528017403824" duration="6282000" />
+      <workItem from="1528088277163" duration="2341000" />
+      <workItem from="1549280368477" duration="1591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21451000" />
+    <option name="totallyTimeSpent" value="26218000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2560" y="23" width="2560" height="1417" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="2560" height="1374" extended-state="0" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16481334" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21286735" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.3299532" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="PlantUML" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/documents-debug/src/main/DocumentsDebug.mxml">
@@ -438,6 +461,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/documents-debug/DocumentsDebug-app.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3045">
+          <caret line="203" column="63" selection-start-line="203" selection-start-column="63" selection-end-line="203" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/documents/documents.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -447,10 +477,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/documents/src/default/com/github/airext/Documents.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="480">
           <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="e#86#126#0" expanded="true" />
           </folding>
         </state>
@@ -458,7 +487,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/documents/src/main/com/github/airext/Documents.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1695">
+        <state relative-caret-position="1725">
           <caret line="120" column="38" selection-start-line="120" selection-start-column="38" selection-end-line="120" selection-end-column="38" />
           <folding>
             <element signature="e#86#126#0" expanded="true" />
@@ -470,13 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1935">
           <caret line="129" column="37" selection-start-line="129" selection-start-column="37" selection-end-line="129" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/build/extension.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -501,167 +523,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/documents-debug/DocumentsDebug-app.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3870">
-          <caret line="258" column="29" lean-forward="true" selection-start-line="258" selection-start-column="29" selection-end-line="258" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents-debug/src/main/DocumentsDebug.mxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/documents.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/src/default/com/github/airext/Documents.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#86#126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/src/main/com/github/airext/Documents.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1695">
-          <caret line="120" column="38" selection-start-line="120" selection-start-column="38" selection-end-line="120" selection-end-column="38" />
-          <folding>
-            <element signature="e#86#126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/build/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1935">
-          <caret line="129" column="37" selection-start-line="129" selection-start-column="37" selection-end-line="129" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/documents/build/extension.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/build/platform-android.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/build/build.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/src/main/com/github/airext/core/documents.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="71" selection-start-line="1" selection-start-column="71" selection-end-line="1" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents-debug/DocumentsDebug-app.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3900">
-          <caret line="260" column="63" selection-start-line="260" selection-start-column="63" selection-end-line="260" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/src/main/com/github/airext/core/documents.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="71" selection-start-line="1" selection-start-column="71" selection-end-line="1" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/build/build.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/src/main/com/github/airext/Documents.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1695">
-          <caret line="120" column="38" selection-start-line="120" selection-start-column="38" selection-end-line="120" selection-end-column="38" />
-          <folding>
-            <element signature="e#86#126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/src/default/com/github/airext/Documents.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#86#126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/build/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1935">
-          <caret line="129" column="37" selection-start-line="129" selection-start-column="37" selection-end-line="129" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/documents.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/build/platform-android.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents-debug/src/main/DocumentsDebug.mxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents-debug/src/main/Default-568h@2x.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents-debug/DocumentsDebug-app.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="203" column="63" lean-forward="true" selection-start-line="203" selection-start-column="63" selection-end-line="203" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documents/build/extension.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="390">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
         </state>
       </provider>
     </entry>

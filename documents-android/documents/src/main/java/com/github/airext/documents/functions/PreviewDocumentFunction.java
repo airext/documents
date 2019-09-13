@@ -46,18 +46,22 @@ public class PreviewDocumentFunction implements FREFunction {
         }
 
         if (filename == null) {
+            Log.e(Documents.TAG, "Could not read filename.");
             return null;
         }
 
         Activity activity = context.getActivity();
 
-        File file = new File(activity.getFilesDir(), filename);
+        File file = new File(activity.getCacheDir(), filename);
 
         if (!file.getParentFile().exists()) {
+            Log.d(Documents.TAG, "Creating parent directory for target file.");
             file.getParentFile().mkdirs();
         }
 
         if (!file.exists()) {
+            Log.d(Documents.TAG, "Target file doesn't exist, creating it...");
+
             AssetManager assets = activity.getAssets();
 
             try {
@@ -66,6 +70,8 @@ public class PreviewDocumentFunction implements FREFunction {
                 Log.e(Documents.TAG, "Exception copying from assets", e);
                 return null;
             }
+        } else {
+            Log.d(Documents.TAG, "Target file already exists and will be reused.");
         }
 
         String authority = activity.getPackageName() + ".airext.fileprovider.authority";

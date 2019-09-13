@@ -38,11 +38,11 @@ dependencies {
 // JAR
 
 task clearJar(type: Delete) {
-    delete 'build/documents.jar'
+    delete 'build/libs/documents.jar'
 }
 
 task jar(type: Jar) {
-    from zipTree('build/intermediates/intermediate-jars/release/classes.jar') // add original content
+    from zipTree('build/intermediates/packaged-classes/release/classes.jar') // add original content
     from(file("src/main/AndroidManifest.xml")) {   // add new content
 //        into "META-INF"
     }

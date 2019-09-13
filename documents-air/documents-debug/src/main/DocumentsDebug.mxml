@@ -25,6 +25,11 @@
         private function openPDF(): void {
             Documents.shared.previewDocumentWithPath("data/test.pdf");
         }
+
+        private function clearPDF(): void {
+            Documents.shared.clearDocumentWithPath("data/test.pdf");
+        }
+
         ]]>
     </fx:Script>
 
@@ -40,6 +45,7 @@
         <f:Button label="Is Supported" triggered="isSupportedTapped()" />
         <f:Button label="Extensions Version" triggered="extensionVersionTapped()" />
         <f:Button label="Open PDF" triggered="openPDF()" />
+        <f:Button label="Clear PDF" triggered="clearPDF()" />
     </f:ScrollContainer>
 
     <f:ScrollText id="outputText" height="100">

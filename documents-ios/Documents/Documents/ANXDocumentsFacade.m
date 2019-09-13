@@ -38,12 +38,17 @@ FREObject ANXDocumentsPreview(FREContext context, void* functionData, uint32_t a
     return NULL;
 }
 
+FREObject ANXDocumentsClear(FREContext context, void* functionData, uint32_t argc, FREObject argv[]) {
+    NSLog(@"ANXDocumentsPreview");
+    return NULL;
+}
+
 #pragma mark ContextInitialize/ContextFinalizer
 
 void ANXDocumentsContextInitializer(void* extData, const uint8_t* ctxType, FREContext ctx, uint32_t* numFunctionsToSet, const FRENamedFunction** functionsToSet){
     NSLog(@"ANXDocumentsContextInitializer");
 
-    *numFunctionsToSet = 2;
+    *numFunctionsToSet = 3;
 
     FRENamedFunction* func = (FRENamedFunction*) malloc(sizeof(FRENamedFunction) * (*numFunctionsToSet));
 
@@ -56,6 +61,11 @@ void ANXDocumentsContextInitializer(void* extData, const uint8_t* ctxType, FRECo
     func[1].name = (const uint8_t*) "preview";
     func[1].functionData = NULL;
     func[1].function = &ANXDocumentsPreview;
+
+
+    func[2].name = (const uint8_t*) "clear";
+    func[2].functionData = NULL;
+    func[2].function = &ANXDocumentsClear;
 
     *functionsToSet = func;
 }

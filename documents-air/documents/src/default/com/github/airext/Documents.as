@@ -66,5 +66,10 @@ public class Documents {
     public function previewDocumentWithPath(path: String): void {
         trace("Documents extension is not supported for " + Capabilities.os);
     }
+
+    public function clearDocumentWithPath(path: String): void {
+        trace("Documents extension is not supported for " + Capabilities.os);
+    }
+
 }
 }

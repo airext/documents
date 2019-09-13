@@ -11,7 +11,7 @@
 
     <!-- A universally unique application identifier. Must be unique across all AIR applications.
          Using a reverse DNS-style name as the id is recommended. (Eg. com.example.ExampleApplication.) Required. -->
-    <id>DocumentsDebug</id>
+    <id>com.github.airext.documents.debug</id>
 
     <!-- Used as the filename for the application. Required. -->
     <filename>DocumentsDebug</filename>
@@ -103,7 +103,7 @@
         <renderMode>direct</renderMode>
 
         <!-- Whether the default direct mode rendering context allocates storage for depth and stencil buffers.  Optional.  Default false. -->
-        <!--<depthAndStencil></depthAndStencil>-->
+        <depthAndStencil>true</depthAndStencil>
 
         <!-- Whether or not to pan when a soft keyboard is raised or lowered (either "pan" or "none").  Optional.  Defaults "pan." -->
         <!--<softKeyboardBehavior></softKeyboardBehavior>-->
@@ -258,7 +258,7 @@
 
                     <provider
                         android:name="android.support.v4.content.FileProvider"
-                        android:authorities="air.DocumentsDebug.airext.fileprovider.authority"
+                        android:authorities="com.github.airext.documents.debug.airext.fileprovider.authority"
                         android:exported="false"
                         android:grantUriPermissions="true">
                             <meta-data

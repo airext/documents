@@ -120,5 +120,10 @@ public class Documents {
     public function previewDocumentWithPath(path: String): void {
         context.call("preview", path);
     }
+
+    public function clearDocumentWithPath(path: String): void {
+        context.call("clear", path);
+    }
+
 }
 }

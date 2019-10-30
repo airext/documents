@@ -2,25 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c34a7760-a4cf-4316-a268-7111e6829679" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ant.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../documents-android/documents/src/main/java/com/github/airext/documents/functions/ClearDocumentFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/build.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../build/extension.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/extension.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documents-debug/DocumentsDebug-app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/documents-debug/DocumentsDebug-app.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documents-debug/ane/com.distriqt.androidsupport.V4.ane" beforeDir="false" afterPath="$PROJECT_DIR$/documents-debug/ane/com.distriqt.androidsupport.V4.ane" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/documents-debug/ane/com.github.airext.Documents.ane" beforeDir="false" afterPath="$PROJECT_DIR$/documents-debug/ane/com.github.airext.Documents.ane" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/documents-debug/ane/com.github.airext.Documents.swc" beforeDir="false" afterPath="$PROJECT_DIR$/documents-debug/ane/com.github.airext.Documents.swc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documents-debug/src/assets/data/test.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/documents-debug/src/assets/data/test.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documents-debug/src/main/DocumentsDebug.mxml" beforeDir="false" afterPath="$PROJECT_DIR$/documents-debug/src/main/DocumentsDebug.mxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documents/build" beforeDir="false" afterPath="$PROJECT_DIR$/documents/build" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documents/src/default/com/github/airext/Documents.as" beforeDir="false" afterPath="$PROJECT_DIR$/documents/src/default/com/github/airext/Documents.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documents/src/main/com/github/airext/Documents.as" beforeDir="false" afterPath="$PROJECT_DIR$/documents/src/main/com/github/airext/Documents.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../documents-android/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../documents-android/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../documents-android/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../documents-android/documents/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../documents-android/documents/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../documents-android/documents/src/main/java/com/github/airext/documents/ExtensionContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/../documents-android/documents/src/main/java/com/github/airext/documents/ExtensionContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../documents-android/documents/src/main/java/com/github/airext/documents/functions/PreviewDocumentFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../documents-android/documents/src/main/java/com/github/airext/documents/functions/PreviewDocumentFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../documents-android/documents/src/main/res/xml/file_paths.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../documents-android/documents/src/main/res/xml/file_paths.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documents-debug/documents-debug.iml" beforeDir="false" afterPath="$PROJECT_DIR$/documents-debug/documents-debug.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documents/documents.iml" beforeDir="false" afterPath="$PROJECT_DIR$/documents/documents.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents-ios/Documents/Documents.xcodeproj/project.xcworkspace/xcuserdata/max.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../documents-ios/Documents/Documents.xcodeproj/project.xcworkspace/xcuserdata/max.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents-ios/Documents/Documents/ANXDocumentsConversionRoutines.m" beforeDir="false" afterPath="$PROJECT_DIR$/../documents-ios/Documents/Documents/ANXDocumentsConversionRoutines.m" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,24 +56,26 @@
     <property name="flex.preferred.android.device.id" value="3100bfda6635a243" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/documents/src/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/documents-debug/ane" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15295815" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/documents-debug/src/main" />
-    </key>
-    <key name="CreateActionScriptClassDialog.DESTINATION_PACKAGE_RECENT_KEY">
-      <recent name="com.github.airext" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/documents-debug/ane" />
       <recent name="$PROJECT_DIR$/documents-debug/src/main" />
       <recent name="$PROJECT_DIR$/documents-debug/src/assets/data" />
       <recent name="$PROJECT_DIR$/documents/src/default/com" />
+    </key>
+    <key name="CreateActionScriptClassDialog.DESTINATION_PACKAGE_RECENT_KEY">
+      <recent name="com.github.airext" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/documents-debug/src/main" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -227,7 +220,11 @@
       <workItem from="1528017403824" duration="6282000" />
       <workItem from="1528088277163" duration="2341000" />
       <workItem from="1549280368477" duration="1591000" />
-      <workItem from="1568392189324" duration="7697000" />
+      <workItem from="1568392189324" duration="9108000" />
+      <workItem from="1571563104368" duration="2613000" />
+      <workItem from="1571633366988" duration="2182000" />
+      <workItem from="1571833435331" duration="8000" />
+      <workItem from="1572443861480" duration="4851000" />
     </task>
     <servers />
   </component>
@@ -239,7 +236,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

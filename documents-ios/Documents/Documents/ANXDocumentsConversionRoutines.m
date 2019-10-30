@@ -21,7 +21,7 @@
     unsigned long length = strlen( utf8String );
 
     FREObject converted;
-    FREResult result = FRENewObjectFromUTF8((uint32_t) length + 1, (const uint8_t*) utf8String, &converted);
+    FREResult result = FRENewObjectFromUTF8((uint32_t) length, (const uint8_t*) utf8String, &converted);
 
     if (result != FRE_OK)
         return NULL;

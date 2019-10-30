@@ -5,17 +5,17 @@
       <configuration name="documents-debug" target-platform="Mobile" main-class="DocumentsDebug" output-file="DocumentsDebug.swf" output-folder="$MODULE_DIR$/bin">
         <dependencies target-player="29.0">
           <entries>
-            <entry library-id="0f49ee96-7efc-443b-9a85-874a02183b12">
-              <dependency linkage="Merged" />
-            </entry>
-            <entry library-id="74917fb0-0ff2-4c1f-b733-4850989bffb6">
-              <dependency linkage="Merged" />
-            </entry>
             <entry library-id="6c8aa2f7-71f8-40e6-a76f-be94a50a9e25">
               <dependency linkage="Merged" />
             </entry>
+            <entry library-id="30d9edac-4ce8-43d3-a44d-36b2b7612bef">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="04631556-6366-4873-b921-0fd28b1dd7b1">
+              <dependency linkage="Merged" />
+            </entry>
           </entries>
-          <sdk name="3.5.x" />
+          <sdk name="4.0.0-air33.0-starling2.5.1" />
         </dependencies>
         <compiler-options />
         <packaging-air-desktop />
@@ -23,6 +23,7 @@
           <files-to-package>
             <FilePathAndPathInPackage file-path="$MODULE_DIR$/src/assets" path-in-package="." />
           </files-to-package>
+          <AirSigningOptions arch="armv8" />
         </packaging-android>
         <packaging-ios enabled="true" use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/DocumentsDebug-app.xml" package-file-name="DocumentsDebug">
           <files-to-package>
@@ -41,30 +42,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src/assets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="3.5.x" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="jdk" jdkName="4.0.0-air33.0-starling2.5.1" jdkType="Flex SDK Type (new)" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library type="flex">
-        <properties id="0f49ee96-7efc-443b-9a85-874a02183b12" />
-        <CLASSES>
-          <root url="file://$USER_HOME$/sdks/feathers/3.5.0-beta/frameworks/libs" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-        <jarDirectory url="file://$USER_HOME$/sdks/feathers/3.5.0-beta/frameworks/libs" recursive="false" />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library type="flex">
-        <properties id="74917fb0-0ff2-4c1f-b733-4850989bffb6" />
-        <CLASSES>
-          <root url="file://$USER_HOME$/sdks/feathers/3.5.0-beta/frameworks/themes/MetalWorksMobileTheme" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-        <jarDirectory url="file://$USER_HOME$/sdks/feathers/3.5.0-beta/frameworks/themes/MetalWorksMobileTheme" recursive="false" />
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library type="flex">
         <properties id="6c8aa2f7-71f8-40e6-a76f-be94a50a9e25" />
@@ -74,6 +53,28 @@
         <JAVADOC />
         <SOURCES />
         <jarDirectory url="file://$MODULE_DIR$/ane" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="30d9edac-4ce8-43d3-a44d-36b2b7612bef" />
+        <CLASSES>
+          <root url="file://$USER_HOME$/sdks/feathers/4.0.0-air33.0-starling2.5.1/frameworks/libs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/sdks/feathers/4.0.0-air33.0-starling2.5.1/frameworks/libs" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="04631556-6366-4873-b921-0fd28b1dd7b1" />
+        <CLASSES>
+          <root url="file://$USER_HOME$/sdks/feathers/4.0.0-air33.0-starling2.5.1/frameworks/themes/MetalWorksMobileTheme" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/sdks/feathers/4.0.0-air33.0-starling2.5.1/frameworks/themes/MetalWorksMobileTheme" recursive="false" />
       </library>
     </orderEntry>
   </component>

@@ -4,7 +4,7 @@
     <configurations>
       <configuration name="documents" target-platform="Mobile" pure-as="true" output-type="Library" output-file="documents.swc" output-folder="$MODULE_DIR$/../out/production/documents">
         <dependencies target-player="29.0">
-          <sdk name="29.0.0" />
+          <sdk name="33.0" />
         </dependencies>
         <compiler-options />
         <packaging-air-desktop />
@@ -20,7 +20,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/default" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="29.0.0" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="jdk" jdkName="33.0" jdkType="Flex SDK Type (new)" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

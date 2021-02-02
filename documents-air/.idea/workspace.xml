@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c34a7760-a4cf-4316-a268-7111e6829679" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../build/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/build.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build/extension.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/extension.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documents-debug/ane/com.distriqt.androidsupport.V4.ane" beforeDir="false" afterPath="$PROJECT_DIR$/documents-debug/ane/com.distriqt.androidsupport.V4.ane" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/documents-debug/ane/com.github.airext.Documents.ane" beforeDir="false" afterPath="$PROJECT_DIR$/documents-debug/ane/com.github.airext.Documents.ane" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/documents-debug/ane/com.github.airext.Documents.swc" beforeDir="false" afterPath="$PROJECT_DIR$/documents-debug/ane/com.github.airext.Documents.swc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documents-debug/documents-debug.iml" beforeDir="false" afterPath="$PROJECT_DIR$/documents-debug/documents-debug.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documents/documents.iml" beforeDir="false" afterPath="$PROJECT_DIR$/documents/documents.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../documents-ios/Documents/Documents.xcodeproj/project.xcworkspace/xcuserdata/max.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../documents-ios/Documents/Documents.xcodeproj/project.xcworkspace/xcuserdata/max.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../documents-ios/Documents/Documents/ANXDocumentsConversionRoutines.m" beforeDir="false" afterPath="$PROJECT_DIR$/../documents-ios/Documents/Documents/ANXDocumentsConversionRoutines.m" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -224,7 +217,9 @@
       <workItem from="1571563104368" duration="2613000" />
       <workItem from="1571633366988" duration="2182000" />
       <workItem from="1571833435331" duration="8000" />
-      <workItem from="1572443861480" duration="4851000" />
+      <workItem from="1572443861480" duration="5142000" />
+      <workItem from="1572454116715" duration="1641000" />
+      <workItem from="1575047924246" duration="669000" />
     </task>
     <servers />
   </component>
